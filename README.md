@@ -10,6 +10,7 @@
 - [my gists](https://gist.github.com/echu888)
 - [my GitHub pages](https://echu888.github.io/)
 - [vim cheatsheet](https://vim.rtorr.com/)
+- [SRE books](https://landing.google.com/sre/books/)
 
 <!--
 **echu888/echu888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
