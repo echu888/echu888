@@ -1,4 +1,4 @@
-*Languages References:* 
+*Language References:* 
 - [C++](https://en.cppreference.com/w/)
 - [Python](https://www.python.org/) 
 - [go](https://golang.org/doc/) 
