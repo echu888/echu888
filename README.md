@@ -1,10 +1,10 @@
 *Language References:* 
-- [C++](https://en.cppreference.com/w/)
-- [Python](https://www.python.org/) 
-- [go](https://golang.org/doc/) 
-- [PHP](https://www.php.net/manual/en/)
 - [bash](https://www.gnu.org/software/bash/manual/html_node/index.html)
-- [node.js](https://nodejs.org/en/docs/) 
+- [C++](https://en.cppreference.com/w/) / [boost](https://www.boost.org/doc/)
+- [go](https://golang.org/doc/) 
+- [node.js](https://nodejs.org/en/docs/) / [npm](https://www.npmjs.com/)
+- [Python](https://docs.python.org/3/library/) / [pip](https://pypi.org/)
+- [PHP](https://www.php.net/manual/en/) / [composer](https://packagist.org/)
 
 *Resources:*
 - [my gists](https://gist.github.com/echu888)
