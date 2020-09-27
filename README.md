@@ -1,6 +1,6 @@
 *Language References:* 
 - [bash](https://www.gnu.org/software/bash/manual/html_node/index.html)
-- [C++](https://en.cppreference.com/w/) / [boost](https://www.boost.org/doc/)
+- [C++](https://en.cppreference.com/w/) / [boost](https://www.boost.org/doc/) / [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - [go](https://golang.org/doc/) 
 - [node.js](https://nodejs.org/en/docs/) / [npm](https://www.npmjs.com/) / [cypress.io](https://docs.cypress.io/api/api/table-of-contents.html)
 - [Python](https://docs.python.org/3/library/) / [pip](https://pypi.org/)
